@@ -1,5 +1,5 @@
 # Module
-Module was written in C and allows for getting user input without the need to constantly confirm every input with enter key
+This module was written in C, it allows for getting user input without the need to constantly confirm every input with enter key
 
 # Install
 
