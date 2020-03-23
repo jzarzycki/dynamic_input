@@ -1,12 +1,12 @@
 # Install
 
-'''
+```
 sudo python3 setup.py install
-'''
+```
 
 # Usage
 
-'''python
+```python
 import dynamic_input as din
 
 s = ""
@@ -18,4 +18,4 @@ for _ in range(6):
     s += ch.decode("utf-8")
 
 print(s)
-'''
+```
